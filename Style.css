@@ -1,0 +1,22 @@
+body{
+    background-color: floralwhite;
+}
+img{
+    float: left;
+}
+#text1{
+    color: silver;
+    font-size: 25px;
+    
+}
+#text2{
+    color: rgb(233, 15, 178);
+    font-size: 30px;
+}
+#text3{
+    color: rgb(233, 15, 15);
+    font-size: 40px;
+}
+#lasttext{
+    color: darkred;
+}
